@@ -1,0 +1,73 @@
+
+.con{
+    background: url('https://designshack.net/wp-content/uploads/wood-background.jpg');
+    height: 700px;
+}
+
+.center{
+    float:right ;
+    margin-top: 100px;
+    margin-right: 250px;
+    width: 800px;
+    height:500px;
+    background-color: white;
+    position: relative;
+}
+
+.aline{
+    margin-top: 10px;
+    display: flex;
+}
+.img img{
+    width: 400px;
+    height:480px ;
+    background-color: aqua;
+}
+
+form{
+    margin-left: 10px;
+}
+form input{
+    margin-bottom: 10px;
+}
+.right{
+    padding-top: 50px;
+    width: 400px;
+}
+.btn{
+    margin-top: 0px;
+    border: 0;
+    color: white;
+    width: 150px;
+    height: 50px;
+    background-color: rgba(0, 0, 0, 0.849);
+}
+.btn1{
+    margin-top: 40px;
+    border: 0;
+    color: white;
+    width: 150px;
+    height: 50px;
+    background-color: rgba(0, 0, 0, 0.849);
+}
+h4{
+    margin-bottom: 20px;
+    margin-top: -50px;
+
+}
+#name-err{
+    color: red;
+    display: none;
+}
+#mail-err{
+    color: red;
+    display: none;
+}
+#phone-err{
+    color: red;
+    display: none;
+}
+#pass-err{
+    color: red;
+    display: none;
+}

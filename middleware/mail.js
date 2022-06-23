@@ -12,7 +12,7 @@ const {join} = require('path');
 //     }
 // })
   
-    SG.setApiKey('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')
+    SG.setApiKey('')
 
 async function mailsending(mailDetails){
     
